@@ -1,0 +1,22 @@
+icecast:
+  source:
+    user: source
+    password: hackme
+  admin:
+    user: admin
+    password: hackme
+  port: 8000
+  server: localhost
+
+traktor:
+  recordings-path:
+  recordings-extension: wav
+
+nowplaying:
+  port: 8001
+
+stream:
+  title: Stream Title
+  description: Stream Description
+  genre: Stream Genre
+  url: 'http://localhost'
