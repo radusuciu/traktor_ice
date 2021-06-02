@@ -6,4 +6,4 @@ idna==2.9
 PyYAML==5.3.1
 requests==2.23.0
 traktor-nowplaying==0.0.8
-urllib3==1.25.9
+urllib3==1.26.5
